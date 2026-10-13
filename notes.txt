@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 initial line
 local line
+=======
+remote line
+>>>>>>> dbb4a1f6554bf6f9cf2a8c8be5a23b21ce86d591
