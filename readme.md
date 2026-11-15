@@ -30,3 +30,4 @@ mvn spotless:apply
 mvn spotless:check
 ```
 
+## How to run tests
