@@ -1,9 +1,9 @@
 name: ci
-on: [push, pull_reguests]
+on: [push, pull_request]
 jobs:
  check:
  runs-on: ubuntu-latest
  steps:
- -uses: actions/checkout@v4
+  - uses: actions/checkout@v4
  - run: echo "check started"
  - run: test -f README.md
