@@ -1,6 +1,5 @@
 package homework.h02;
 
-// base
 // https://leetcode.com/problems/add-binary/
 public class T1 {
   public String addBinary(String a, String b) {

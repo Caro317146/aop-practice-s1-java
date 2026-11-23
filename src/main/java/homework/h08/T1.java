@@ -3,7 +3,6 @@ package homework.h08;
 import java.util.HashSet;
 import java.util.Set;
 
-// base
 // https://leetcode.com/problems/contains-duplicate/
 public class T1 {
   public boolean containsDuplicate(int[] nums) {
