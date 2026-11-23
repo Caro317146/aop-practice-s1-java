@@ -1,5 +1,6 @@
 package homework.h09;
 
+// https://leetcode.com/problems/number-of-good-pairs/
 public class T1 {
   public int numIdenticalPairs(int[] nums) {
     int count = 0;

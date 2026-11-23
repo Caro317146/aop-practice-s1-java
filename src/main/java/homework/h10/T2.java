@@ -1,5 +1,6 @@
 package homework.h10;
 
+// https://leetcode.com/problems/reverse-string/
 public class T2 {
   public void reverseString(char[] s) {
     int left = 0;

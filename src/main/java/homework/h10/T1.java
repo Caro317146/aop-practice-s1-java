@@ -1,5 +1,6 @@
 package homework.h10;
 
+// https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
 public class T1 {
   public char kthCharacter(int k) {
     StringBuilder word = new StringBuilder("a");

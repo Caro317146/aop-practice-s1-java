@@ -1,5 +1,6 @@
 package homework.h01;
 
+// https://leetcode.com/problems/squares-of-a-sorted-array/
 public class T2 {
   public int[] sortedSquares(int[] nums) {
     int n = nums.length;
