@@ -1,7 +1,7 @@
 package homework.h07;
 
 // https://leetcode.com/problems/number-complement/
-public class NumberComplement {
+public class T2 {
   public int findComplement(int num) {
     int mask = 1;
     while (mask < num) {
