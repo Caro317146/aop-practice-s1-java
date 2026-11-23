@@ -2,6 +2,7 @@ package homework.h01;
 
 import java.util.Arrays;
 
+// https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 public class T1 {
   public int maxProductDifference(int[] nums) {
     Arrays.sort(nums);
