@@ -2,6 +2,7 @@ package homework.h15;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import homework.h15.T1.TreeNode;
 import org.junit.jupiter.api.Test;
 
 class T1Test {
