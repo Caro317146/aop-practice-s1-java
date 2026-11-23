@@ -1,5 +1,6 @@
 package homework.h11;
 
+// https://leetcode.com/problems/majority-element/
 public class T2 {
   public int majorityElement(int[] nums) {
     int candidate = 0;

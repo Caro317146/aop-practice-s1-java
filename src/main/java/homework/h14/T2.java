@@ -3,6 +3,7 @@ package homework.h14;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
+// https://leetcode.com/problems/implement-queue-using-stacks/
 public class T2 {
   public static class MyQueue {
     private final Deque<Integer> inStack = new ArrayDeque<>();

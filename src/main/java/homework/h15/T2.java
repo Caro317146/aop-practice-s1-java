@@ -1,6 +1,7 @@
 package homework.h15;
 
 // https://leetcode.com/problems/range-sum-of-bst/
+// https://leetcode.com/problems/range-sum-of-bst/
 public class T2 {
   public int rangeSumBST(TreeNode root, int low, int high) {
     if (root == null) {

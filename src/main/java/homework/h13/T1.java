@@ -1,5 +1,6 @@
 package homework.h13;
 
+// https://leetcode.com/problems/first-bad-version/
 public class T1 extends VersionControl {
   public int firstBadVersion(int n) {
     int left = 1;

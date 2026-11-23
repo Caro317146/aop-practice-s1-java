@@ -1,5 +1,6 @@
 package homework.h14;
 
+// https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 public class T1 {
   public String removeDuplicates(String s) {
     StringBuilder stack = new StringBuilder();

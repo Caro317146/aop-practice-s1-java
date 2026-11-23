@@ -1,5 +1,6 @@
 package homework.h16;
 
+// https://leetcode.com/problems/find-the-town-judge/
 public class T2 {
   public int findJudge(int n, int[][] trust) {
     int[] score = new int[n + 1];
